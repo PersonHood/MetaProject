@@ -1,6 +1,6 @@
 # MetaProject 
 
-Steps involved in project development
+Steps to develop a project 
 
 - off-line
 - on-line
