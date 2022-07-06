@@ -1,2 +1,7 @@
-# MetaProject
-Documenting project development 
+# MetaProject 
+
+Steps involved in project development
+
+- off-line
+- on-line
+- promotion
