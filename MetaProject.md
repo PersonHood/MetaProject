@@ -1,3 +1,17 @@
+# Overview
+
+All services are free, no payment method required.
+
+A few services require a phone number, where Google Voice is accepted.
+
+Several services provide Android apps, though a few 
+provide limited functions v web site.
+
+LinkedIn is not included. While free to use the admins 
+lock suspicious accounts. Unlocking requires a photo ID.
+
+
+
 # Privacy
 
 [top](#privacy) 
@@ -39,7 +53,9 @@
 ## Trashmail
 - https://trashmail.com/
 - `username@my10minutemail.com`
+   - `username@hotmail.com`
    - disposable e-mail account 
+   - forwards e-mail
 
 ## Mailnesia
 - https://mailnesia.com
@@ -124,7 +140,7 @@
 ## Clever Cloud
 - https://console.clever-cloud.com
 - https://api.clever-cloud.com/v2/session/login
-   - username@hotmail.com 
+   - `username@hotmail.com`
    - link to Github
    - Google Voice accepted
 
