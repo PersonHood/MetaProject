@@ -37,6 +37,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
 - https://outlook.live.com/owa/
 - `username@hotmail.com`
    - phone number not required
+   - 'recovery' E-mail required, HotMail accepted
    - Has an App
 
 ## Protonmail
