@@ -7,14 +7,23 @@ A few services require a phone number, where Google Voice is accepted.
 Several services provide Android apps, though a few 
 provide limited functions v web site.
 
-LinkedIn is not included. While free to use the admins 
-lock suspicious accounts. Unlocking requires a photo ID.
+# Off-line
 
-
+- Create Documents and Code
+   - projectname-00-00-Overview
+   - projectname-0n-0m- ...topics
+   - projectname-99-0m-Appendicies
+- Create Accounts
+   - Privacy
+   - Communication
+   - Files
+   - Groups
+   - Databases
+- Promote
 
 # Privacy
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
@@ -27,7 +36,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
 
 # Communication
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
@@ -37,7 +46,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
 - https://outlook.live.com/owa/
 - `username@hotmail.com`
    - phone number not required
-   - 'recovery' E-mail required, HotMail accepted
+   - ‘recovery’ email required, HotMail accepted
    - Has an App
 
 ## Protonmail
@@ -49,7 +58,8 @@ lock suspicious accounts. Unlocking requires a photo ID.
 ## Zoho
 - https://www.zoho.com
 - `username@zohomail.eu`
-   - acct: 00000000000
+   - acct: 00000000000 
+   - Has an App
 
 ## Trashmail
 - https://trashmail.com/
@@ -75,7 +85,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
 
 # Files
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
@@ -94,11 +104,15 @@ lock suspicious accounts. Unlocking requires a photo ID.
 
 # Groups
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
 | [data](#databases) 
+
+
+LinkedIn is not included. While free to use the admins 
+lock suspicious accounts. Unlocking requires a photo ID.
 
 ## Reddit
 - https://www.reddit.com/login
@@ -127,7 +141,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
 
 # Databases
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
@@ -146,7 +160,7 @@ lock suspicious accounts. Unlocking requires a photo ID.
    - Google Voice accepted
 
 
-[top](#privacy) 
+[top](#overview) 
 | [com](#communication) 
 | [file](#files) 
 | [group](#groups) 
