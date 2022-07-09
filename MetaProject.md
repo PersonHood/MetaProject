@@ -1,201 +1,165 @@
-# Header 1
+# Overview
 
-  prepend 1 hash + 1 space
+All services are free, no payment method required.
 
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
+A few services require a phone number, where Google Voice is accepted.
 
-  Markdown.md formatting
+Several services provide Android apps, though a few
+provide limited functions v web site.
 
-## Header 2
+# Off-line
 
-  prepend 2 hash + 1 space
+- Create Documents and Code
+   - projectname-00-00-Overview
+   - projectname-0n-0n- ...topics
+   - projectname-99-00-Appendicies
+   - projectname-99-00-Bibliography
+   - projectname-99-0n- ...topics
+- Create Accounts
+- Promote
 
-  paragraph
+# Privacy
 
-### Header 3
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
-  prepend 3 hash + 1 space
+## Tor
+- https://torproject.com
+   - Orbot -  VPN proxy for apps
+   - Browser - VPN \& browser
 
-  paragraph
+# Communication
 
-# Text
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
+## Hotmail
+- https://outlook.live.com/owa/
+- `username@hotmail.com`
+   - phone number not required
+   - ‘recovery’ email required, HotMail accepted
+   - Has an App
 
-asterisk
-*italics*
-asterisk
- abc
-2 asterisks
-**bold**
-2 asterisks
- abc
-3 asterisks
-***bold italics***
-3 asterisks
- abc
-2 tildes
-~~strikethrough~~
-2 tildes
- abc, 16 line breaks
+## Protonmail
+- https://protonmail.com/
+- https://account.proton.me/login
+- `username@protonmail.com`  
+   - Has an App
 
-Single\s\s\s\s    
-Line Break with four trailing spaces above
+## Zoho
+- https://www.zoho.com
+- `username@zohomail.eu`
+   - acct: 00000000000
+   - Has an App
 
-Paragraph -enter key- -enter key-
+## Trashmail
+- https://trashmail.com/
+- `username@my10minutemail.com`
+   - `username@hotmail.com`
+   - disposable e-mail account
+   - forwards e-mail
 
-Line Break
+## Mailnesia
+- https://mailnesia.com
+   - public e-mail account
 
-horizontal rule, not always rendered 3 asterisks
-***
+## Mailinator
+- https://mailinator.com
+   - public e-mail account
 
-paragraph
+## Telegram
+- https://web.telegram.org/k/
+- https://t.me
+   - phone number required
+   - Google Voice **not** accepted
+   - Has an App
 
-> Quoted Text prepend 1 greater than sign
->> 2^nd^ Quoted Text prepend 2 greater than  signs
+# Files
 
-## Code
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
+## Github
+- https://github.com/login
+- https://github.com/username/
+   - `username@hotmail.com`
+   - Has an App
 
-```
-Code Text - triple back tick
-     at line before
-   and line after
-   text, not ignoring
-     line breaks nor spacing
-   end
-end
-```
-Paragraph back tick `call sqrt()` back
-tick
+## Pastebin
+- https://pastebin.com/login
+- https://pastebin.com/u/username
+   - `username@hotmail.com`
 
-## List
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
+# Groups
 
-
-* Item 1
-* Item 2
-   + Item 1, three spaces prepended
-   + Item 2
-
-1. Numbered Item 1
-2. Numbered Item 2
-   1. Numbered Item 2.1
-   2. Numbered Item 2.2
-   3. three spaces prepended
-
-## Link
-
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
-
-Within this page:
-
-\[text\]\(\#lowercase-header-text)
-
-Replace dashes for spaces in header text.
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
 
-## External Link
+LinkedIn is not included. While free to use the admins
+lock suspicious accounts. Unlocking requires a photo ID.
 
-[Reddit Link](http://reddit.com) – bracket abc bracket paren http... paren
+## Reddit
+- https://www.reddit.com/login
+- https://www.reddit.com/u/username
+     - `username@hotmail.com`
+     - Has an App
 
-## Relative Link
+## Tumblr
+- https://tumblr.com/login
+- https://username.tumblr.com/   
+   - `username@hotmail.com`
+   - Has an App
 
-The following should work in Reddit:
+## Twitter
+- https://twitter.com/i/flow/login
+- https://twitter.com/username
+   - phone number required
+   - Google Voice accepted
+   - Has an App
 
-[link](u/reddit) - u/reddit
+## Pinterest
+- https://www.pinterest.com/login/
+- https://www.pinterest.com/username
+   - `username@hotmail.com`
+   - Has an App
 
-[link](r/AskReddit) - r/AskReddit
+# Databases
 
-The following should work in GitHub:
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
-[link](./README.md) - ./README.md
+## Mongo DB
+- https://cloud.mongodb.com/
+- https://account.mongodb.com/account
+   - `username@hotmail.com`
 
-## Table
+## Clever Cloud
+- https://console.clever-cloud.com
+- https://api.clever-cloud.com/v2/session/login
+   - `username@hotmail.com`
+   - link to Github
+   - Google Voice accepted
 
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
 
-| left---| center---| right-- |
-| ------ |:--------:| -------:|
-| row 1  | label    |   $1.00 |
-| row 2  | label    |   $2.00 |
-| row 3  | label    |   $3.00 |
-
-Vertical bars define columns with
-no extra line breaks;
-dashes and colons (before and after)
-vertical bars specify alignment.
-
-# Escaping
-
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
-
-Special & reserved characters
-
-prepend a back slash
-
-- \* Asterisk
-- \\ Backslash
-- \` Backtick
-- \{ \}  Curly braces
-- \. Dot
-- \! Exclamation mark
-- \# Hash symbol
-- \- Hyphen symbol
-- \( \)  Parentheses
-- \+ Plus symbol
-- \[ Square brackets
-- \] Square brackets
-- \_ Underscore
-
-[top](#header-1)
-| [text](#text)
-| [code](#code)
-| [list](#list)
-| [link](#link)
-| [table](#table)
-| [esc](#escaping)
+[top](#overview)
+| [com](#communication)
+| [file](#files)
+| [group](#groups)
+| [data](#databases)
 
